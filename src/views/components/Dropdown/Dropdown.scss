@@ -1,0 +1,11 @@
+.Dropdown {
+    &__select {
+        display: flex;
+        justify-content: center;
+        
+        &--header {
+            position: relative;
+            align-self: center;
+        }
+    }
+}
